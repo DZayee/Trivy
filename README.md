@@ -1,3 +1,16 @@
+<div align="center">
+<img src="docs/imgs/logo.png" width="200">
+
+[![GitHub Release][release-img]][release]
+[![Test][test-img]][test]
+[![Go Report Card][go-report-img]][go-report]
+[![License: Apache-2.0][license-img]][license]
+[![GitHub Downloads][github-downloads-img]][release]
+![Docker Pulls][docker-pulls]
+
+[📖 Documentation][docs]
+</div>
+
 # Trivy
 Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner.
 Trivy has *scanners* that look for security issues, and *targets* where it can find those issues.
